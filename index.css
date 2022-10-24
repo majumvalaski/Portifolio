@@ -1,26 +1,14 @@
+* {
+    margin: 0;
+    padding: 0;
+}
 .cabecalho {
 
     width: 100%;
-    height: 50px;
+    height: 80px;
     background-color: goldenrod;
 }
-.menu_inicial ul{
-    
-    float: right;
-    list-style: none;
-    margin-right: 10px;
-    padding-right: 10px;
-   
-}
 
-.menu_inicial li {
-    
-    float: right;
-    padding-left: 10px;
-    padding-top: 10px;
-    margin-right: 20px;
-
-}
 .menu_inicial a {
 
     font-size: 18px;
@@ -28,6 +16,21 @@
     font-family: "Montserrat";
     color: black;
     font-weight: 300;
+    margin-right: 20px;
+    margin-top: 40px;
+    float: right;
 
 }
+#button {
+    display: inline-block;
+    background-color: rgba(157, 140, 121, 0.965);
+    height: 50px;
+    line-height: 50px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 0px;
+}
 
+body {
+    background-color:rgba(205, 170, 109, 0.902);
+}
