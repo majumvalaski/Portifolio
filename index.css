@@ -15,8 +15,13 @@
     float:left;
     margin-left: 10px;
 }
+
+nav {
+    text-align: right;
+}
 .menu_inicial a {
-    display: inline-block;
+    display: inline-flex;
+    align-items: center;
     font-size: 18px;
     text-decoration: none;
     font-family: "Montserrat";
@@ -24,10 +29,10 @@
     font-weight: 300;
     margin-right: 15px;
     margin-top: 40px;
-    float: right;
 }
 
-span {
+a::before {
+    content:"";
     display: inline-block;
     background-color:rgba(157, 140, 121, 0.965);
     width: 10px;
@@ -35,6 +40,7 @@ span {
     margin-right: 4px;
     vertical-align: middle;
 }
+
 #button {
 
     display: inline-block;
