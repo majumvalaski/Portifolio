@@ -104,19 +104,45 @@ h1 {
     margin-left: 20px;
     margin-right: 20px;
     padding-top: 120px;
+    
 }
 
-#projetos {
+.list1 li{
+    
+    font-family: "Montserrat";
+    color: black;
+    font-weight: 300;
+    font-size: 20px; 
+    float: left;
+    margin-left: 40px;
+    margin-top: 20px;
+     
+}
+
+.projetos {
     border-bottom: 3px solid #000;
     font-family: "Montserrat";
     color: black;
     font-weight: 400;
     font-size: 25px; 
-    margin-top: 30px;
+    margin-top: 150px;
     margin-left: 20px;
-    margin-right: 20px;
-    padding-top: 120px;
+    margin-right: 20px; 
+     
 }
+
+#github {
+    float: left;
+    font-family: "Montserrat";
+    color: black;
+    font-weight: 300;
+    font-size: 20px;
+    margin-left: 20px;
+    margin-top: 40px;
+    
+}
+
+
 
 #sobre {
     border-bottom: 3px solid #000;
@@ -124,10 +150,26 @@ h1 {
     color: black;
     font-weight: 400;
     font-size: 25px; 
-    margin-top: 30px;
+    margin-top: 150px;
     margin-left: 20px;
     margin-right: 20px;
-    padding-top: 120px;
+    
+}
+
+
+.text {
+
+    float: left;
+    text-align: left;
+    text-indent: 20px;
+    font-family: "Montserrat";
+    color: black;
+    font-weight: 300;
+    font-size: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 40px;
+    padding-bottom: 40px;
 }
 
 #contato {
@@ -136,8 +178,30 @@ h1 {
     color: black;
     font-weight: 400;
     font-size: 25px; 
-    margin-top: 30px;
+    margin-top: 180px;
     margin-left: 20px;
     margin-right: 20px;
-    padding-top: 120px;
+    
+}
+
+.list2 li {
+    float: left;
+    font-family: "Montserrat";
+    color: black;
+    font-weight: 300;
+    font-size: 20px;
+    margin-left: 20px;
+    margin-top: 40px;
+    margin-bottom: 100px;
+    text-decoration: underline;
+    list-style: none;
+
+}
+
+.list2 a {
+    font-size: 20px;
+    text-decoration: none;
+    font-family: "Montserrat";
+    color: black;
+    font-weight: 300;
 }
