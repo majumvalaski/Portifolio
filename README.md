@@ -6,4 +6,5 @@ O Portifólio nasceu da necessidade de eu conseguir armazer todos os meus projet
 
 Para ter acesso ao meu portifólio não é preciso instalar nenhum software, aqui a idéia é só ter acesso às minhas informações pessoais e profissionais. Existe um botão que dá acesso ao arquivo do meu CV em pdf que pode ser baixado, além dos acessos aos meus links para contato e mais informações: LinkedIn, whatsapp e GitHub. 
 
-
+## Deploy
+https://portifoliomariajulia.netlify.app
