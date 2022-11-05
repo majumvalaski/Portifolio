@@ -1,4 +1,4 @@
-# Portfolio
+# Portifolio
 
 ![Screen Shot 2022-10-30 at 16 14 41](https://user-images.githubusercontent.com/115854249/200088404-369987b8-0aeb-460c-9f3e-072f0005d2fd.png)
 ![Screen Shot 2022-10-30 at 16 14 56](https://user-images.githubusercontent.com/115854249/200088400-bcec45e1-8f02-42b2-a419-14bb77b21b48.png)
